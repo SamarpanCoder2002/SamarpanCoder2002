@@ -19,7 +19,7 @@
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
 </br>
 
-### ***_<img src="Images_for_README/heart.png" width=30px /> Github Stats:-_***
+### ***_<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-_***
 # <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&show_icons=true&theme=algolia" alt="SamarpanCoder2002" /></p>
 
 ### ***_<img src="Images_for_README/heart.png" width=30px /> Most Used Languages:-_***
