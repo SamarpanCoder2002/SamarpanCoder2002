@@ -29,7 +29,7 @@
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 
-<h2> <p align="center"> Show <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=40px /> by Starring Some of my Repos</h2>
+<h2><i> <p align="center"> Show <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=40px /> by Starring Some of my Repos</i></h2>
 
 ```
 def mindit():
