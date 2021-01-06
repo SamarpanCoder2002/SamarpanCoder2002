@@ -23,8 +23,11 @@
 <h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&show_icons=true&theme=algolia" alt="SamarpanCoder2002" />
 
+</br>
+
 ### <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
+
 
 <h2> <p align="center"> Show <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=40px /> by Starring Some of my Repos</h2>
 
@@ -38,6 +41,7 @@ def mindit():
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+</br>
 
 <h2> ⚒️ Tools and Programming Languages:- </h2>
 <p align="left">
