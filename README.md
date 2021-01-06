@@ -10,11 +10,11 @@
 <br>
 
 
-- 🔭 ***I'm in the first year of BSC Computer Science Hons.***
-- 🌱 ***I’m Currently Developing Projects in Python.***
-- 🎯 ***I’m focusing on Competitive Programming.***
-- 🥅 ***2021 Goals: Contribute more to Open Source projects.***
-- ⚡ ***Fun fact: Love to watch Tom and Jerry.*** 😂
+- 🔭 ***I'm in the first year of BSC Computer Science Hons.***</br>
+- 🌱 ***I’m Currently Developing Projects in Python.***</br>
+- 🎯 ***I’m focusing on Competitive Programming.***</br>
+- 🥅 ***2021 Goals: Contribute more to Open Source projects.***</br>
+- ⚡ ***Fun fact: Love to watch Tom and Jerry.*** 😂</br>
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:samarpan2dasgupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
 
