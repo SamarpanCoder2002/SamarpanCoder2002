@@ -22,10 +22,10 @@
 ### ***_<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-_***
 # <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&show_icons=true&theme=algolia" alt="SamarpanCoder2002" /></p>
 
-### ***_<img src="Images_for_README/heart.png" width=30px /> Most Used Languages:-_***
+### ***_<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-_***
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
-### <p align="center"> ***_Show <img src="Images_for_README/heart.png" width=40px /> by Starring Some of my Repos_***</p>
+### <p align="center"> ***_Show <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=40px /> by Starring Some of my Repos_***</p>
 
 
 ```
@@ -42,15 +42,16 @@ def mindit():
 <br />
 
 ## ⚒️ ***_Tools and Programming Languages_***:-
-<img src="Images_for_README/c_laang.png" width=50px>
-<img src="Images_for_README/c++_lang.png" width=60px>
-<img src="Images_for_README/python_logo.png" width=40px>&nbsp&nbsp
-<img src="Images_for_README/git.png" width=40px>&nbsp&nbsp
-<img src="Images_for_README/github.png" width=40px>&nbsp&nbsp
-<img src="Images_for_README/mysql_logo.png" width=80px>
-<img src="Images_for_README/html_logo.png" width=50px>
-<img src="Images_for_README/css_logo.png" width=50px>
-
+<p align="left">
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c_laang.png?raw=true" width=50px>
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c++_lang.png?raw=true" width=60px>
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/mysql_logo.png?raw=true" width=80px>
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/html_logo.png?raw=true" width=50px>
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
+</p>
 <br/>
 ---
 
