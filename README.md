@@ -35,7 +35,7 @@ def mindit():
 </br></br>
 ---
 
-## 🤝 ***_Connect with me:-_***
+<h2> 🤝 Connect with me:-</h2>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -44,7 +44,7 @@ def mindit():
 ---
 
 
-## ⚒️ ***_Tools and Programming Languages_***:-
+<h2> ⚒️ ***_Tools and Programming Languages:- </h2>
 <p align="left">
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c_laang.png?raw=true" width=50px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c++_lang.png?raw=true" width=60px>
@@ -56,7 +56,6 @@ def mindit():
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
 </p>
 <br/>
----
 
 [youtube]: https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ
 
