@@ -19,31 +19,25 @@
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
 
 
-</br></br>
+
 <h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&show_icons=true&theme=algolia" alt="SamarpanCoder2002" />
 
 ### <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
----
 
 <h2> <p align="center"> Show <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=40px /> by Starring Some of my Repos</h2>
 
-
 ```
 def mindit():
-    print("What You Seek is Seeking You")
+    print("What You Seek is Seeking You!!!!")
 ```
-
----
 </br>
 <h2> 🤝 Connect with me:-</h2>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-</br>
 
 <h2> ⚒️ Tools and Programming Languages:- </h2>
 <p align="left">
