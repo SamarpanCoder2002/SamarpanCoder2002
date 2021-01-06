@@ -1,4 +1,4 @@
-<img alt="GIF" src="Gifs/coder.gif" width=300p align="right">
+<img alt="GIF" src="Gifs/coder.gif" width=300px align="right">
 
 <h1> <p align="center" >Hello, I'm Samarpan Dasgupta 👋</h1>
 
