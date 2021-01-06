@@ -23,8 +23,8 @@
 <h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&show_icons=true&theme=algolia" alt="SamarpanCoder2002" />
 
-<h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
+### ***_<img src="Images_for_README/heart.png" width=30px /> Most Used Languages:-_***
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
 ---
 </br></br>
 <h2> <p align="center"> Show <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=40px /> by Starring Some of my Repos</h2>
