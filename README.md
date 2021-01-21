@@ -30,7 +30,7 @@
 
 </br>
 
-### <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
+### <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=merko)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
 
 
