@@ -21,7 +21,8 @@
 
 
 <h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&show_icons=true&theme=algolia" alt="SamarpanCoder2002" />
+
+# [![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
