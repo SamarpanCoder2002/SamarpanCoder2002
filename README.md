@@ -11,7 +11,7 @@
 
 
 - 🔭 ***I'm in the first year of BSC Computer Science Hons.***</br></br>
-- 🌱 ***I’m Currently Developing Projects in Python.***</br></br>
+- 🌱 ***I’m Currently Learning Flutter and try to make Some Projects in Flutter.***</br></br>
 - 🎯 ***I’m focusing on Competitive Programming.***</br></br>
 - 🥅 ***2021 Goals: Contribute more to Open Source projects.***</br></br>
 - ⚡ ***Fun fact: Love to watch Tom and Jerry.*** 😂</br></br>
