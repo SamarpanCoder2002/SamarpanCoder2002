@@ -27,7 +27,7 @@
 </br>
 
 ## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark)](https://github.com/SamarpanCoder2002/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
