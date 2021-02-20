@@ -20,24 +20,28 @@
 
 
 
-<h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
-
+### 💘 Github Stats:-
 # [![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
+### 💘 Most Used Languages:-
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
+### 💘 Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=tokyonight)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
+### 💘 Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/SamarpanCoder2002/github-profile-trophy)
+
+</br>
+
+### 💘 Github Activity Graph:-
+# [![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=redical)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
