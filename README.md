@@ -21,17 +21,17 @@
 
 
 ### 💘 Github Stats:-
-# [![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
+[![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
 ### 💘 Most Used Languages:-
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SamarpanCoder2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
 ### 💘 Github Streak Stats:-
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=tokyonight)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=tokyonight)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
 
 </br>
 
@@ -41,7 +41,7 @@
 </br>
 
 ### 💘 Github Activity Graph:-
-# [![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=redical)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
+[![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=redical)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
