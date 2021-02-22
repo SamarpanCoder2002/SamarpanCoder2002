@@ -74,8 +74,3 @@ def mindit():
 [youtube]: https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ
 
 [linkedin]: https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/
-
-![](https://raw.githubusercontent.com/SamarpanCoder2002/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/SamarpanCoder2002/github-stats-transparent/output/generated/languages.svg)
-
-
