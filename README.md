@@ -21,7 +21,7 @@
 
 
 ### 💘 Github Stats:-
-[![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=algolia)](https://github.com/SamarpanCoder2002/github-readme-stats)
+[![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=radical)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
