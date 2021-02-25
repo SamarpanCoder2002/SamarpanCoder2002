@@ -68,8 +68,8 @@ def mindit():
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/mysql_logo.png?raw=true" width=80px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/html_logo.png?raw=true" width=50px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/html_logo.png?raw=true" width=50px>
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/dart.png?raw=true" width=50px>
+<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/flutter.png?raw=true" width=50px>
 </p>
 <br/>
 
