@@ -64,7 +64,7 @@ def mindit():
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c++_lang.png?raw=true" width=60px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
+<img src="./Images_For_README/github.png" width=50px>&nbsp&nbsp
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/mysql_logo.png?raw=true" width=80px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/html_logo.png?raw=true" width=50px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
