@@ -53,23 +53,25 @@ def mindit():
 </br>
 <h2> 🤝 Connect with me:-</h2>
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="30px" src="social_media_handles/youtube.png" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="25px" src="social_media_handles/Linkedin.svg" />][linkedin]
 
 </br>
 
 <h2> ⚒️ Tools and Programming Languages:- </h2>
 <p align="left">
-<img src="Images_for_README/c_laang.svg" width=50px>
+<img src="Images_for_README/c_lang.png" width=40px>
 <img src="Images_For_README/c++_lang.png?raw=true" width=60px>
 <img src="Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
 <img src="Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
 <img src="Images_For_README/github.png" width=50px>&nbsp&nbsp
+
 <img src="Images_For_README/mysql_logo.png?raw=true" width=80px>
 <img src="Images_For_README/html_logo.png?raw=true" width=50px>
 <img src="Images_For_README/css_logo.png?raw=true" width=50px>
 <img src="Images_For_README/dart.png?raw=true" width=80px>
 <img src="Images_For_README/flutter.png?raw=true" width=40px>
+
 
 </p>
 <br/>
