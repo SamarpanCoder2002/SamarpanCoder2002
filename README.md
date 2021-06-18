@@ -31,7 +31,7 @@
 </br>
 
 ### 💘 Github Streak Stats:-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=tokyonight)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=ayu-mirage)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
 
 </br>
 
@@ -41,7 +41,7 @@
 </br>
 
 ### 💘 Github Activity Graph:-
-[![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=redical)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
+[![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
