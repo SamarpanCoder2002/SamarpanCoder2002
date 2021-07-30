@@ -44,21 +44,22 @@
 [![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
 
-<h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
+<h3> <p align="center"> Show ❤️ by Starring Some of my Repos</h3>
 
 ```Python
 def mindit():
     print("What You Seek is Seeking You!!!!")
 ```
 </br>
-<h2> 🤝 Connect with me:-</h2>
+<h3> 🤝 Connect with me:-</h3>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="30px" src="social_media_handles/youtube.png" />][youtube]
 [<img align="left" alt="codeSTACKr | YouTube" width="25px" src="social_media_handles/Linkedin.svg" />][linkedin]
 
 </br>
+</br>
 
-<h2> ⚒️ Tools and Programming Languages:- </h2>
+<h3> ⚒️ Tools and Programming Languages:- </h3>
 <p align="left">
 <img src="Images_for_README/c.svg" width=45px>
 <img src="Images_For_README/c++_lang.png?raw=true" width=60px>
@@ -75,6 +76,17 @@ def mindit():
 
 </p>
 <br/>
+</br>
+
+<h3>🌱 My Latest Youtube Videos</h3>
+
+- #### [Flutter Social Media Chat App Tutorial Playlist](https://youtube.com/playlist?list=PLn4o1Gy6eg752X6ZaJ7UL55kLJ235laOg)
+
+- #### [Flutter RealTime Chat App](https://youtu.be/QEDhmxzEqUA)
+
+- #### [Flutter E-Commerce App Clone](https://youtu.be/nxZa9D8_wrc)
+
+- #### [AI Ludo Game Made In Python Tkinter](https://youtu.be/5NScX6qgd3Y)
 
 [youtube]: https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ
 
