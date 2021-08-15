@@ -56,7 +56,7 @@ def mindit():
 
 <h3> ⚒️ Tools and Programming Languages:- </h3>
 <p align="left">
-<img src="Images_for_README/c.svg" width=45px>
+<img src="Images_for_README/c_lang.png" width=40px>
 <img src="Images_For_README/c++_lang.png?raw=true" width=60px>
 <img src="Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
 <img src="Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
