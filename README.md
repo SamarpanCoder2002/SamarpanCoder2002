@@ -71,7 +71,6 @@ def mindit():
 
 </p>
 <br/>
-</br>
 
 <h3>🌱 My Latest Youtube Videos</h3>
 
