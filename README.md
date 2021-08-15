@@ -30,11 +30,6 @@
 
 </br>
 
-### 💘 Github Streak Stats:-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarpanCoder2002&theme=ayu-mirage)](https://github.com/SamarpanCoder2002/github-readme-streak-stats)
-
-</br>
-
 ### 💘 Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/SamarpanCoder2002/github-profile-trophy)
 
