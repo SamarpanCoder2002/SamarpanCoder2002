@@ -11,7 +11,6 @@
 - 🔭 **_I'm in the Second Year of BSC Computer Science Hons._**</br>
 - 🎊 **_I'm a Flutter Developer_**</br>
 - 🌱 **_I’m Currently Learning MERN Stack And Building Some Projects._**</br>
-- 🎯 **_I’m focusing on Competitive Programming._**</br>
 - 🥅 **_2021 Goals: Contribute more to Open Source projects._**</br>
 - ⚡ **_Fun fact: Love to watch Tom and Jerry._** 😂</br>
 - <b>📫 How to reach me :<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarpan2dasgupta@gmail.com"> samarpan2dasgupta@gmail.com</a></b>
