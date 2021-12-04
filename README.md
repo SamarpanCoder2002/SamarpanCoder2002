@@ -44,9 +44,8 @@
 
 <h3> <p align="center"> Show ❤️ by Starring Some of my Repos</h3>
 
-```Python
-def mindit():
-    print("What You Seek is Seeking You!!!!")
+```Javascript 
+console.log("What You Seek is Seeking You")
 ```
 
 </br>
