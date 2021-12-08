@@ -2,7 +2,7 @@
 
 <p align="center" >Hello, 👋 I'm Samarpan Dasgupta <img src="Gifs/Developer.gif" width=70px></h1>
 
-<h3 align="center"><i>A Passionate Programmer from India</i></h3></br></br>
+<h3 align="center"><i>A Passionate Developer from India</i></h3></br></br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/SamarpanCoder2002) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=SamarpanCoder2002.profileviews-badge)](https://github.com/SamarpanCoder2002) [![Followers](https://img.shields.io/github/followers/SamarpanCoder2002?style=social)](https://github.com/SamarpanCoder2002?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamarpanCoder2002) [![Repos Badge](https://badges.pufler.dev/repos/SamarpanCoder2002)](https://badges.pufler.dev/repos/SamarpanCoder2002) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/)
 [![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ)
