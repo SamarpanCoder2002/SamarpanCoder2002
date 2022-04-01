@@ -8,7 +8,7 @@
 [![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ)
 <br></br>
 
-- 🔭 **_I'm in the Second Year of BSC Computer Science Hons._**</br>
+<!-- - 🔭 **_I'm in the Second Year of BSC Computer Science Hons._**</br> -->
 - 🙋 **_Visit My Portfolio Website https://www.samarpandasgupta.com_**
 - 🎊 **_I'm a Flutter and MERN/FERN Stack Developer_**</br>
 - 🌱 **_I’m Currently Building Some Personal Projects and do Freelancing._**</br>
