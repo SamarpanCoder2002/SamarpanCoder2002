@@ -10,11 +10,11 @@
 
 <!-- - 🔭 **_I'm in the Second Year of BSC Computer Science Hons._**</br> -->
 - 🙋 **_Visit My Portfolio Website https://www.samarpandasgupta.com_**
+- 😲 **_Now Working as a Full Time Mobile Application Developer_**</br>
 - 🎊 **_I'm a Flutter and MERN/FERN Stack Developer_**</br>
-- 🌱 **_I’m Currently Building Some Personal Projects and do Freelancing._**</br>
-- 🥅 **_2022 Goals: Keep it suspend 😏._**</br>
+- 🌱 **_Also Working on Some of My Personal Projects._**</br>
 - ⚡ **_Fun fact: Love to watch Tom and Jerry._** 😂</br>
-- <b>📫 How to reach me :<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarpan2dasgupta@gmail.com"> samarpanofficial2021@gmail.com</a></b>
+- <b>📫 How to reach me :<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarpanofficial2021@gmail.com"> samarpanofficial2021@gmail.com</a></b>
 <br/>
 
 - <b>🔗 Connect with me :</b>
