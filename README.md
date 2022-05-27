@@ -29,7 +29,7 @@
 
 ### 💘 Most Used Languages:-
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=7)](https://github.com/SamarpanCoder2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/SamarpanCoder2002/github-readme-stats)
 
 </br>
 
