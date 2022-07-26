@@ -1,6 +1,6 @@
 <h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
 
-<p align="center" >Hello, 👋 I'm Samarpan Dasgupta <img src="Gifs/Developer.gif" alt="profile emoji" width="50px"></h1>
+<p align="center" >Hello, 👋 Samarpan Dasgupta here <img src="Gifs/Developer.gif" alt="profile emoji" width="50px"></h1>
 
 <h3 align="center"><i>A Passionate Developer from India</i></h3></br></br>
 
