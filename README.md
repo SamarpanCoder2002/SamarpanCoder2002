@@ -45,7 +45,7 @@
 
 [![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
-<h3> <p align="center"> Show ❤️ by Starring Some of my Repos</h3>
+<h3> <p align="center"> Show ❤️ by Starring(⭐) Some of my Repos</h3>
 
 ```Javascript 
 console.log("What You Seek is Seeking You")
