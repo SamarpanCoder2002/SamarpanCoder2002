@@ -74,7 +74,7 @@ console.log("What You Seek is Seeking You")
 
 <h3>🌱 My Latest Youtube Videos</h3>
 
-- #### [Generation 2.0 - Simple, Secure, Private and User-Friendly Modern Messaging app](https://youtu.be/4MvZaJJ-qeE)
+- #### [Generation 2.0 - Simple, Secure, User-Friendly Modern Messaging app](https://youtu.be/4MvZaJJ-qeE)
 
 - #### [Flutter Social Media Chat App Tutorial Playlist](https://youtube.com/playlist?list=PLn4o1Gy6eg752X6ZaJ7UL55kLJ235laOg)
 
