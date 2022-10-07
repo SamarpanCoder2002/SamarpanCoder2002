@@ -47,8 +47,8 @@
 
 <h3> <p align="center"> Show ❤️ by Starring(⭐) Some of my Repos</h3>
 
-```Javascript 
-console.log("What You Seek is Seeking You")
+```Dart 
+debugPrint("What You Seek is Seeking You")
 ```
 
 </br>
