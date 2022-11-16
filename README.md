@@ -15,7 +15,7 @@
 - 😲 **_Now Working as a Full Time Software Developer_**</br>
 - 🎊 **_I'm a Flutter and MERN/FERN Stack Developer_**</br>
 - 🌱 **_Also Working on Some of My Personal Projects._**</br>
-- ⚡ **_Fun fact: I am still single._** 😂</br>
+- ⚡ **_Fun fact: I am still single yet._** 😂</br>
 - <b>📫 How to reach me :<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarpanofficial2021@gmail.com"> samarpanofficial2021@gmail.com</a></b>
 <br/>
 
