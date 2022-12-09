@@ -43,7 +43,7 @@
 
 ### 💘 Github Activity Graph:-
 
-[![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
+[![Samarpan Dasgupta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
 <h3> <p align="center"> Show ❤️ by Starring(⭐) Some of my Repos</h3>
 
@@ -53,10 +53,10 @@ debugPrint("What You Seek is Seeking You")
 
 </br>
 
-<h3> ⚒️ Tools and Programming Languages:- </h3>
+<!-- <h3> ⚒️ Tools and Programming Languages:- </h3>
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50px"/>
-<img src="Images_For_README/c++_lang.png?raw=true" width=60px>
+<img src="./Images_For_README/c++_lang.png?raw=true" width=60px>
 <img src="Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
 <img src="Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
 <img src="Images_For_README/github.png" width=50px>&nbsp&nbsp
@@ -69,8 +69,8 @@ debugPrint("What You Seek is Seeking You")
 <img src="Images_For_README/flutter.png?raw=true" width=40px>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" width=50px/>
 
-</p>
-<br/>
+</p> -->
+<!-- <br/> -->
 
 <h3>🌱 My Latest Youtube Videos</h3>
 
