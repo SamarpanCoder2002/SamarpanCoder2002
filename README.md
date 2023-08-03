@@ -23,34 +23,6 @@
 <br/>
 <a href="https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/samarpan.dasgupta.3/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/samarpan_dasgupta/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/SamarpanDasgup1"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/@samarpandasguptaofficial"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
 
-```
-
-### 💘 Github Stats:-
-
-[![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarpanCoder2002&theme=radical)](https://github.com/SamarpanCoder2002/github-readme-stats)
-
-</br>
-
-### 💘 Most Used Languages:-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarpanCoder2002&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/SamarpanCoder2002/github-readme-stats)
-
-</br>
-
-### 💘 Github Trophies:-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/SamarpanCoder2002/github-profile-trophy)
-
-</br>
-
-### 💘 Github Activity Graph:-
-
-[![Samarpan Dasgupta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
-
-<h3> <p align="center"> Show ❤️ by Starring(⭐) Some of my Repos</h3>
-
-```
-
 ```javascript
 console.log("What You Seek is Seeking You")
 ```
