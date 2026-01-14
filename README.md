@@ -21,7 +21,7 @@
 
 - <b>🔗 Connect with me :</b>
 <br/>
-<a href="https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/samarpan.dasgupta.3/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/samarpan_dasgupta/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/SamarpanDasgup1"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/@@SammarpanDasguptaOfficial"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
+<a href="https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/samarpan.dasgupta.3/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/samarpan_dasgupta/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/SamarpanDasgup1"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/@SammarpanDasguptaOfficial"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
 
 </br>
 
@@ -64,4 +64,5 @@ console.log("What You Seek is Seeking You")
 
 [youtube]: https://www.youtube.com/@samarpandasguptaofficial
 [linkedin]: https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/
+
 
